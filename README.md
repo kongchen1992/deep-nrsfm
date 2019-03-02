@@ -30,7 +30,7 @@ git clone https://github.com/kongchen1992/deep-nrsfm.git
 We use [CMU Graphics Lab Motion Capture Database ](http://mocap.cs.cmu.edu/) to
 train and test our neural network. We create TFRecords for convenience of
 training and evaluation. You can download the TFRecords file of subject 23
-(http://www.cs.cmu.edu/~chenk/deep-nrsfm/23.tar.gz) for demo.
+(http://www.cs.cmu.edu/~chenk/deep-nrsfm/23.train) for demo.
 
 ### Pre-trained models
 We offer a pre-trained model for subject 23 for the purpose of demo. You can

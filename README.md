@@ -72,6 +72,7 @@ You are able to train your own model by simply running in terminal:
 
 
 ## Reference
+If you use the code, please cite:
 
     @misc{1902.10840,
       Author = {Chen Kong and Simon Lucey},
